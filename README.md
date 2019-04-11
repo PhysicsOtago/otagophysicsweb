@@ -1,2 +1,3 @@
-# otagophysicsweb
-To manage jobs for maintaining physics department webpage. 
+# OtagoPhysicsWeb
+
+This repository might never have any code. It is a way we can use githubs issue tracking for the physics department webpage.
